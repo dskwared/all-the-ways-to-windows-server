@@ -4,5 +4,6 @@ Whether base vCenter or vRA, powershell, ansible or saltstack, we will document 
 ## Team Members
 
 [Ariel Sanchez](https://twitter.com/arielsanchezmor)
+[Doug DeFrank](https://twitter.com/dougdefrank)
 
 
